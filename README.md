@@ -1,2 +1,2 @@
-# WeeklyTest1_C-
+# WeeklyTest1_C
 Left Shift Training weekly test 1
